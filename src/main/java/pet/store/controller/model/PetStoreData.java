@@ -93,6 +93,11 @@ public class PetStoreData {
 			employeePhone = employee.getEmployeePhone();
 			employeeJobTitle = employee.getEmployeeJobTitle();
 		}
+
+		public Object getEmail() {
+			// TODO Auto-generated method stub
+			return null;
+		}
 	}
 	
 	
